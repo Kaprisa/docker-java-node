@@ -9,7 +9,7 @@ A minimal Dockerfile based on OpenJDK's JRE8 Dockerfile (regular, slim or alpine
 ## What's included
 
 - JRE 8
-- Node.js 10
+- Node.js 8
 - npm 6
 - yarn
 
